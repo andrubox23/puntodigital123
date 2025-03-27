@@ -1,17 +1,46 @@
-p {
-  color: blue;
-  font-size: 30px;} 
-
 body {
-  background-color: grey;
+  background-color: rgb(1, 8, 10);
 }
+
 h1 {
-  color: blueviolet;
-  text-align: center;}
+  color: rgb(244, 8, 154);
+  text-align:center,
+}
 
 p {
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
-  font-size: 20px;}
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+}
+
+#unico {
+  background-color: brown;
+  color: antiquewhite;
+}
+  
+.box {
+  background:
+    linear-gradient(
+        105deg,
+        rgba(255, 255, 255, 0.2) 39%,
+        rgba(51, 56, 57, 1) 96%
+      )
+      center center / 400px 200px no-repeat,
+    url(big-star.png) center no-repeat,
+    rebeccapurple;
+}
+
+.box {
+  background-color: #567895;
+}
+
+h2 {
+  background-color: black;
+  color: rgb(24, 5, 109);
+}
+span {
+  background-color: rgba(210, 1, 1, 0.5);
+}
+  
 
 
  
