@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&display=swap');
+
+body {
+  background-color: rgb(229, 237, 239);
+  font-family:'Gravitas One';
+}
+
+h1 {
+  color: rgb(227, 43, 224);
+  text-align:center;
+}
+
+p {
+  
+  font-size: 10px;
+}
+ 
+#unico {
+  background-color: rgb(24, 16, 16);
+  color: rgb(217, 143, 46);
+}
+
+h2 {
+  background-color: rgb(188, 134, 48);
+  color: rgb(25, 217, 124);
+}
+
+ 
