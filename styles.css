@@ -1,18 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Gravitas+One&display=swap');
 
 body {
-  background-color: rgb(229, 237, 239);
-  font-family:'Gravitas One';
+  background-color: rgb(234, 238, 239);
+  font-family:"Teko";
+  text-align:center;
 }
 
 h1 {
-  color: rgb(227, 43, 224);
+  color: rgb(199, 160, 18);
   text-align:center;
 }
 
 p {
   
-  font-size: 10px;
+  font-size: 20px;
 }
  
 #unico {
@@ -22,7 +23,11 @@ p {
 
 h2 {
   background-color: rgb(188, 134, 48);
-  color: rgb(25, 217, 124);
+  color: rgb(6, 149, 167);
 }
 
- 
+ header{
+  background-color: brown;
+  color: black;
+ }
+
